@@ -1,2 +1,4 @@
-# Data Structures & Algorithms
-## This Repo contains various labs throughout Spring 2019
+# Data Structures & Algorithms In Python
+## Lab 1
+###### Containing binary
+
