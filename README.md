@@ -12,3 +12,5 @@
 ## Lab 4
 ###### Testing knowledge and skills on B-Trees and comapring the differences with Binary Search Trees
 
+## Lab 5
+###### Comparing Binary Search Trees And an implementation of Hash Tables with Chaining
