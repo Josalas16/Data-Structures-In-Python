@@ -18,3 +18,6 @@
 
 ## Lab 6
 ###### Contains disjoint set forests, which we then had to build a maze with cells being contained within each other, used standard union and means of compression, each one creates a single path
+
+## Lab 7
+###### Testing knowledge based on Disjoint Set Forests, Breadth-First Search, Depth-First Seach using a stack and recursion used to find a unique, multiple or no path at all
