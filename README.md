@@ -21,3 +21,6 @@
 
 ## Lab 7
 ###### Testing knowledge based on Disjoint Set Forests, Breadth-First Search, Depth-First Seach using a stack and recursion used to find a unique, multiple or no path at all
+
+## Lab 8
+###### Finding trigonometric identities as well as using backtracking to determine whether two number would be in the same subset
