@@ -14,3 +14,7 @@
 
 ## Lab 5
 ###### Comparing Binary Search Trees And an implementation of Hash Tables with Chaining
+
+
+## Lab 6
+###### Contains disjoint set forests, which we then had to build a maze with cells being contained within each other, used standard union and means of compression, each one creates a single path
