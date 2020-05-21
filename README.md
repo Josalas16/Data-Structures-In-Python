@@ -9,3 +9,6 @@
 ## Lab 3
 ###### Testing knowledge and skills on Binary Search Trees (BST) and various implementations
 
+## Lab 4
+###### Testing knowledge and skills on B-Trees and comapring the differences with Binary Search Trees
+
